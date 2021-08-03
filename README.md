@@ -5,7 +5,7 @@ Looking forward to some awesome time on Github and during contributing to the co
 - 👀 I’m interested in Learning something new everyday
 - 🌱 I’m currently learning :- Web-Development and DSA
 - 💞️ I’m looking to collaborate on Code and Non-code code contributions
-- 📫 How to reach me LinkedIn :- https://in.linkedin.com/in/sudhanshu-wani-2505991b0 
+- 📫 How to reach me :- https://in.linkedin.com/in/sudhanshu-wani-2505991b0 
 
 <!---
 sudhanshu-wani/sudhanshu-wani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
