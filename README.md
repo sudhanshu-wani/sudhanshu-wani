@@ -4,7 +4,7 @@ Looking forward to some awesome time on Github and during contributing to the co
 
 - 👀 I’m interested in Learning something new everyday
 - 🌱 I’m currently learning :- Java, DevOps, Python and Web-Development
-- 💞️ I’m looking to collaborate on Code and Non-code code contributions
+- ✌ I’m looking to collaborate on Code and Non-code code contributions
 - 📫 How to reach me :- https://in.linkedin.com/in/sudhanshu-wani-2505991b0 
 
 <!---
