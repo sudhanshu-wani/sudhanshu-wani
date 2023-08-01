@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Sudhanshu Wani
-A Sophomore 💻 at PES MCOE, Pune. Being from a tier 3 college it is difficult to get better opportunities in my career👨‍🎓... 
-Looking forward to some awesome time on Github and during contributing to the community!😁
+# 👋 Hi, I’m Sudhanshu Wani
+- 📊 Data Science Enthusiast who's a Senior 💻 at PES MCOE, Pune and Loves to learn about Finance management.
+- 🌱 I’m currently learning :- Full Stack Web-Development
+- ✅ I've explored the topics :- Python, Pandas, Numpy, Matplotlib, ScikitLearn, PowerBI, Docker, GIT, GitHub, AWS Essentials
+- ✍ I write at :- https://techblog01.hashnode.dev/
+- 📫 How to reach me :- <br> 📧 wanisudhanshu@gmail.com
 
-- 👀 I’m interested in Learning something new everyday
-- 🌱 I’m currently learning :- PowerBI, DevOps, Python and Web-Dev integration
-- ✌ I’m looking to collaborate on Code and Non-code code contributions
-- 📫 How to reach me :- https://in.linkedin.com/in/sudhanshu-wani-2505991b0 
 
 <!---
 sudhanshu-wani/sudhanshu-wani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
