@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Sudhanshu Wani
-- 📊 Data Science Enthusiast who's a Senior 💻 at PES MCOE, Pune and Loves to learn about Finance management.
+- 💻 Computer Engineering (Hons. Data Science) Senior at PES Modern College of Engineering, Pune
+- 📊 Data Science Enthusiasta - Loves to learn about Data.
 - 🌱 I’m currently involved in :- Research in Machine learning in domain of Finance
 - ✅ I've explored the topics :- Python, Pandas, Numpy, Matplotlib, ScikitLearn, PowerBI, Docker, GIT, GitHub, AWS Essentials, Full Stack Web-Development
 - ✍ I write at :- https://techblog01.hashnode.dev/
