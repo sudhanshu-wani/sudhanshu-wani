@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sudhanshu Wani
-- 💻 Computer Engineering (Hons. Data Science) Senior at PES Modern College of Engineering, Pune
-- 📊 Data Science Enthusiasta - Loves to learn about Data.
+- 💻 MSc Data Science(Computer Science Data Informatics) - The University of Manchester
+- 📊 Data Science Enthusiast - Loves to learn about Data & AI.
 - 🌱 I’m currently involved in :- Research in Machine learning for Health and Finance and Learning about GenAI + LLMs.
 - ✅ Always Learning and exploring! Few technologies I've explored:- Data Analytics, Data Science, Machine Learning, DevOps, Full Stack Web-Development and more.
 - ✍ I write at :- https://techblog01.hashnode.dev/ 
