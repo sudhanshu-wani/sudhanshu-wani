@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sudhanshu Wani
+# 👋 Hi, I’m Sudhanshu
 - 💻 MSc Data Science(Computer Science Data Informatics) - The University of Manchester
 - 📊 Data Science Enthusiast - Loves to learn about Data & AI.
 - 🌱 I’m currently involved in :- Research in Machine learning for Health and Finance and Learning about GenAI + LLMs.
