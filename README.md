@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sudhanshu
 - 💻 MSc Data Science(Computer Science Data Informatics) - The University of Manchester
-- 📊 Data Science Enthusiast - Loves to learn about Data & AI.
+- 📊 Computer Engineer | Data Scienctist - Love to learn about anything tech.
 - 🌱 I’m currently involved in :- Research in Machine learning for Health and Finance and Learning about GenAI + LLMs.
 - 📈 Always Learning and exploring! Few technologies I've explored:- Data Science, Machine Learning, DevOps, Full Stack Web-Development, Cyber Security and more.
 - ✍ I write at :- https://techblog01.hashnode.dev/ 
